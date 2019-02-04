@@ -22,7 +22,7 @@
       "noUnusedLocals": true,
       "skipLibCheck": true,
       "importHelpers": true,
-      "baseUrl": "src"
+      "baseUrl": "src",
    },
    "exclude": [
       "node_modules",

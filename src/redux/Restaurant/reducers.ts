@@ -42,7 +42,7 @@ const listRestaurant = (state = initialState, action: any) => {
 };
 
 export default combineReducers({
-   load: loadRestaurant,
+   restaurant: loadRestaurant,
    menu: menuRestaurant,
    list: listRestaurant,
 });
